@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-image: url('pexels-antonhansenphotography-31434495.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+p {
+    font-size: 20px;
+    line-height: 1;
+    color: #000000;
+    margin-bottom: 20px;
+    margin-top: 100px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 22px;
+    color: #000000;
+    margin-bottom: 30px;
+    padding: 5px;
+    text-align: center;
+}
+
+button {
+    background-color: #92938e;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 50px;
+    font-size: 18px;
+    margin: 20px;
+}
